@@ -52,7 +52,6 @@
 upk-digital-assistant/
 ├── index.html          # приложение: интерфейс, стили и логика демо-режима
 ├── README.md           # инструкция запуска и описание ограничений
-├── .nojekyll           # публикация GitHub Pages
 └── LICENSE             # лицензия MIT
 ```
 
